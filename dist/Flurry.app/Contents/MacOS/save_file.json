@@ -1,0 +1,1 @@
+{"user_query": "SELECT COUNT(*)\nFROM GBI_FRAUD_BAP_DB.AI_RDA_BIZ_APP.QUESTIONS_W_RESPONSES_FROM_RECIPES_REVIEWED\nWHERE 1=1\nAND DATE(audit_dt) = CURRENT_DATE\nAND audited_by = '973631658';", "snowflake_account": "IST-GBIPROD", "account_role": "PUBLIC", "account_warehouse": "GBI_APPLECARE_BAP_01_VWH", "user_email": "robert_garrett@apple.com"}
